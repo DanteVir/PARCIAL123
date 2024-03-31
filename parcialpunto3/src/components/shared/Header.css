@@ -1,0 +1,23 @@
+.container_header{
+    height: 100vw;
+    width: 90px;
+    background: rgb(2,0,36);
+    background: linear-gradient(270deg, rgb(87, 152, 52) 0%, rgb(122, 211, 63) 35%, rgb(3, 121, 27) 100%);
+    position: absolute;
+    right: 0px;
+
+}
+
+.icons_adidas{
+    font-size: 70px;
+    color: rgb(255, 255, 255);
+    margin: auto;
+    padding: auto;
+}
+
+
+
+.container_header img {
+    width: 110px;
+    height: 120px;
+}

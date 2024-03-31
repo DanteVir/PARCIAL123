@@ -1,0 +1,31 @@
+.container_content{
+    width: 1000px;
+    height: 300px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-auto-rows: 100px;
+    grid-gap: 100px;
+
+}
+
+.content_img img{
+    width: 140px;
+    height: 140px;
+    margin: 0px;
+    
+}
+.content_names input{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    background-color: #46AC2F;
+    color: aliceblue;
+}
+
+.content_telefono input{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    background-color: #75CA3D;
+    color: aliceblue;
+}

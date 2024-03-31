@@ -1,0 +1,173 @@
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .roboto-thin-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .roboto-light-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .roboto-medium-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .roboto-bold-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .roboto-black-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
+body{
+    padding: 0%;
+    border: 0%;
+    margin: 0%;
+}
+.paredverder{
+    width: 685px;
+    height: 1000px;
+    background-color: #1aebb6;
+    padding: 0%;
+    border: 0%;
+    margin: 0%;
+
+    
+}
+.contenedor{
+    background-color: white;
+    width: 750px;
+    height: 600px;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    box-shadow: 10px;
+    box-shadow: 3px 4px 4px 5px rgba(0, 0, 0, 0.2);
+
+}
+.logo{
+    background-color:  #1aebb6 ;
+    width: 300px;
+    height: 600px;
+
+}
+.logo img {
+    position: absolute;
+    width: 35%;
+    height: 37%;
+    top: 30%;
+    left: 20%;
+    transform: translateX(-50%);
+}
+p{
+    font-family:  'Roboto', sans-serif;
+    color: black;
+    top: 0px;
+    right: 20px;
+    position: absolute;
+}
+h3{
+    font-family:  'Roboto', sans-serif;
+    color: black;
+    top: 80px;
+    right: 180px;
+    position: absolute;
+
+}
+h5{
+    font-family:  'Roboto', sans-serif;
+    color: black;
+}
+.correo{
+    color: black;
+    position: absolute;
+    width: 30%;
+    height: 30%;
+    top: 30%;
+    left: 68%;
+    transform: translateX(-50%);
+
+}
+input{
+    border: solid 1px rgb(200, 200, 200);
+    width: 280px;
+    height: 30px;
+    border-radius: 4px;
+}
+.recordar{
+    width: 50%;
+    height: 30%;
+    position: absolute;
+    left: 190px;
+    top: 96%;
+
+}
+.login{
+    width: 50%;
+    height: 30%;
+    bottom:  5px;
+    left: 52%;
+    position: absolute;
+    
+}
+button{
+    width: 300px;
+    height: 38px;
+    background-color: #1aebb6;
+    border-radius: 4px;
+    border-color: #1aebb6;
+    cursor: pointer;
+
+}
